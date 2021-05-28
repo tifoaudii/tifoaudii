@@ -20,6 +20,6 @@ Currently working at Ruangguru as an iOS Engineer. A hard-working and passionate
 ### 💬 Wanna reach me? :coffee:
 Linkedin : https://www.linkedin.com/in/tifoaudi/
 
-Portfolio Website : https://tifoaudy.netlify.com
+Portfolio Website : https://tifoaudi.netlify.com
 
 Medium : https://tifoaudy.medium.com
