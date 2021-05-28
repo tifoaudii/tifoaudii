@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Tifo 👋
 
 <!--
 **tifoaudii/tifoaudii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently working at Ruangguru as an iOS Engineer. A hard-working and passionate software engineer who is able to work with high responsibility as part of a team or individually which can produce a high-quality outcome.
+
+
+### 💬 Wanna reach me? :coffee:
+Linkedin : https://www.linkedin.com/in/tifoaudi/
+
+Portfolio Website : https://tifoaudy.netlify.com
+
+Medium : https://tifoaudy.medium.com
