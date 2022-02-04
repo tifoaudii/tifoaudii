@@ -22,4 +22,4 @@ Linkedin : https://www.linkedin.com/in/tifoaudi/
 
 Portfolio Website : https://tifoaudi.netlify.com
 
-Medium : https://tifoaudy.medium.com
+Medium : https://tifoputra.medium.com
