@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working at Ruangguru as an iOS Engineer. A hard-working and passionate software engineer who is able to work with high responsibility as part of a team or individually which can produce a high-quality outcome.
+Currently working at Ruangguru, the largest edtech in Indonesia as an iOS Engineer. A hard-working and passionate software engineer who is able to work with high responsibility as part of a team or individually which can produce a high-quality outcome.
 
 
 ### 💬 Wanna reach me? :coffee:
